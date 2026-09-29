@@ -1,0 +1,232 @@
+[
+  {
+    "source": "webp\\banner.webp",
+    "target": "assets/images/banner.webp",
+    "sha256": "1ea4f765c918ef91da23a80d38a8bf480f37ba89c47554649005581e43b3d593"
+  },
+  {
+    "source": "webp\\Calcareous grain size.webp",
+    "target": "assets/images/calcareous-grain-size.webp",
+    "sha256": "91fad0bf1cd2a69efcfc1f82e076a19551aac8a957fb09fcd8b913800748e9d0"
+  },
+  {
+    "source": "webp\\chemical composition.webp",
+    "target": "assets/images/chemical-composition.webp",
+    "sha256": "fb009b5507a8236d65e75af495ccc4f7ae9296630106e47ed7ba25df21fa4a71"
+  },
+  {
+    "source": "webp\\Clay.webp",
+    "target": "assets/images/clay.webp",
+    "sha256": "a72927f016d2202e023c11e006dee0b1e407546c413a1c2309e27f54f1094fcf"
+  },
+  {
+    "source": "webp\\Coal Gangue.webp",
+    "target": "assets/images/coal-gangue.webp",
+    "sha256": "e3049900d0cbc54d6639b42a671144eb5782202e8bf82e7be79a35de52ce9463"
+  },
+  {
+    "source": "webp\\Drying sensitivity.webp",
+    "target": "assets/images/drying-sensitivity.webp",
+    "sha256": "a0f400b5989bd0a0d39981b3eecf48de5e13411eb2860dcc90979b7a290dff3a"
+  },
+  {
+    "source": "webp\\Experimental Photos-1.webp",
+    "target": "assets/images/experimental-photos-1.webp",
+    "sha256": "6531d21843784958a01346af067d3646621d0428aea192f021479fb2feafdcba"
+  },
+  {
+    "source": "webp\\Experimental Photos-10.webp",
+    "target": "assets/images/experimental-photos-10.webp",
+    "sha256": "da914f8a84fe8bb5f3e2f9ab7702d5c9c485d208ed2db54db3a4e2c70a770671"
+  },
+  {
+    "source": "webp\\Experimental Photos-11.webp",
+    "target": "assets/images/experimental-photos-11.webp",
+    "sha256": "78323b765dd8387be18a2b9edc640a366aaf68c2da620ea743d900bd8caff0ae"
+  },
+  {
+    "source": "webp\\Experimental Photos-12.webp",
+    "target": "assets/images/experimental-photos-12.webp",
+    "sha256": "8e98d07aef8e043eb21e3820688424832ab347d502b563a6d1bb490a94a0ee6b"
+  },
+  {
+    "source": "webp\\Experimental Photos-2.webp",
+    "target": "assets/images/experimental-photos-2.webp",
+    "sha256": "f7c338f2728ea29ebb745f178f5d5bd2c95a2925b4c3f3d904db6d7eb81573ac"
+  },
+  {
+    "source": "webp\\Experimental Photos-3.webp",
+    "target": "assets/images/experimental-photos-3.webp",
+    "sha256": "dd08b50b1554810f34336f50bc289edaf9cb4914195013cbf64fa3f7cf476032"
+  },
+  {
+    "source": "webp\\Experimental Photos-4.webp",
+    "target": "assets/images/experimental-photos-4.webp",
+    "sha256": "928101e04c18df6fe4682de2998d05665a6eaf18d4376dda9b012864a3bedf23"
+  },
+  {
+    "source": "webp\\Experimental Photos-5.webp",
+    "target": "assets/images/experimental-photos-5.webp",
+    "sha256": "5a77035001d62604f5ee9c6dae0f310ed004c4c20f6efa1fe0c0257d9b41064e"
+  },
+  {
+    "source": "webp\\Experimental Photos-6.webp",
+    "target": "assets/images/experimental-photos-6.webp",
+    "sha256": "5a2d07e4b38149f16d1e2c6d6781ea7c36b23ce2171215af901868af97f8d1be"
+  },
+  {
+    "source": "webp\\Experimental Photos-7.webp",
+    "target": "assets/images/experimental-photos-7.webp",
+    "sha256": "36559cb8e9a35497a7b72f0c6f593e8fab323bfa64806fc211e2d9bf42f12d7b"
+  },
+  {
+    "source": "webp\\Experimental Photos-8.webp",
+    "target": "assets/images/experimental-photos-8.webp",
+    "sha256": "93199765f44ce9285b59b1e99b19592ba8873c11c7d52f4c3bf998eae0fdec29"
+  },
+  {
+    "source": "webp\\Experimental Photos-9.webp",
+    "target": "assets/images/experimental-photos-9.webp",
+    "sha256": "47108108f7f9ad90f3463b3ad341f8af5852149e8ebf7c9c35da7d03e341fb8f"
+  },
+  {
+    "source": "webp\\Experimental report template.webp",
+    "target": "assets/images/experimental-report-template.webp",
+    "sha256": "6649aa5b4293352898e3489161bc13e3b8faedc351bf873fb812c336e761c0da"
+  },
+  {
+    "source": "webp\\Fly Ash.webp",
+    "target": "assets/images/fly-ash.webp",
+    "sha256": "10a63fbb2aafbc4b52b1be77c19473190c8c97098bf0d37c3d7362584a4f9701"
+  },
+  {
+    "source": "webp\\Granulometric compositions.webp",
+    "target": "assets/images/granulometric-compositions.webp",
+    "sha256": "8bd66b18dff4acaf88f8c3ef325f840c0c509dff6be258378fd527648005cf22"
+  },
+  {
+    "source": "webp\\Hardness.webp",
+    "target": "assets/images/hardness.webp",
+    "sha256": "2379a35d62afff5a3e9cb3bc3dcb9f2327e5e3e2b7d129d0b68c93396abc94c8"
+  },
+  {
+    "source": "webp\\Plasticity.webp",
+    "target": "assets/images/plasticity.webp",
+    "sha256": "566aad5b13a16f569e4f3d301b8de36ad29e54ab00cadaf99481c85c3e45bb6c"
+  },
+  {
+    "source": "webp\\Shale.webp",
+    "target": "assets/images/shale.webp",
+    "sha256": "909e76951a04d41429cb469eee4fcecd96af8ae6d08e18940ad22d3c67de114a"
+  },
+  {
+    "source": "webp\\Shrinkage rate.webp",
+    "target": "assets/images/shrinkage-rate.webp",
+    "sha256": "1018ad0308f349c1a632f0b015144154fc3da15751b941db90ab84c6dca9e03d"
+  },
+  {
+    "source": "webp\\Sintering function.webp",
+    "target": "assets/images/sintering-function.webp",
+    "sha256": "22463db3b52ebd7df9110deaa8868cdd3d5211b867e9f8a1672f8e9d6f342de0"
+  },
+  {
+    "source": "webp\\what tests are performed on raw materials.webp",
+    "target": "assets/images/what-tests-are-performed-on-raw-materials.webp",
+    "sha256": "4e9e8d3865078e3d54ac71b51930a70681f793f30942d5d3307433820336245f"
+  },
+  {
+    "source": "Laboratory.mp4",
+    "target": "assets/video/laboratory.mp4",
+    "sha256": "84f6fe0b13d78fd77f8553627fd8d04ff7febc0a05844368cc950e461aafdd75"
+  },
+  {
+    "source": "Experimental Report.pdf",
+    "target": "assets/documents/experimental-report.pdf",
+    "sha256": "698978af3ca10a4de8249d67b747207326697aaa781200350313834f9513f109"
+  },
+  {
+    "source": "Experimental List.webp",
+    "target": "assets/documents/experimental-list.webp",
+    "sha256": "2ba1d275ee8fadee8438af5008a28c89dfea6a1e931116ce9d99b6fa7c5a813c"
+  },
+  {
+    "source": "Experimental List.jpg",
+    "target": "assets/documents/experimental-list-hq.jpg",
+    "sha256": "076afadf6654acc11ccedff9d5dd8f1a6a5a8ea22b0f6d103e80319bccc15446"
+  },
+  {
+    "source": "logo.png",
+    "target": "assets/images/logo.png",
+    "sha256": "f9a104626c074cd03df438e83d3af6561f0c9347a8c53d534b440d5dc066c330"
+  },
+  {
+    "source": "图标/化学成分.png",
+    "target": "assets/icons/chemical-composition.png",
+    "sha256": "4fd21870a304d43460302aaf5ca31df3ed797f1d581954c77fb4933e07a2b36e"
+  },
+  {
+    "source": "图标/石灰石.png",
+    "target": "assets/icons/calcareous-grain-size.png",
+    "sha256": "65e0a381424d00aac64c5a8ac4e89039ed3c1e8f8271c6c2a5dfa3f5397eeab0"
+  },
+  {
+    "source": "图标/颗粒度检测.png",
+    "target": "assets/icons/granulometric-compositions.png",
+    "sha256": "1b288fb1f1209e429203e4ad583ec3c28ee709b4e02ffeb33e1644e48614cab8"
+  },
+  {
+    "source": "图标/模具-01.png",
+    "target": "assets/icons/plasticity.png",
+    "sha256": "dd87daf1c8a164ebff13276caf238c8dac61e87ef1c5d1d86f74b601fd3b93c6"
+  },
+  {
+    "source": "图标/收缩率.png",
+    "target": "assets/icons/shrinkage-rate.png",
+    "sha256": "63944a129f8108c95bd6de13e750ba086048dc9c56bf482e28991908b2836b2e"
+  },
+  {
+    "source": "图标/敏感性分析.png",
+    "target": "assets/icons/drying-sensitivity.png",
+    "sha256": "9e7ca946ce913ff45f293f79433a1b374f5d1ca48b15a8a821e8f1ba93eb9e2b"
+  },
+  {
+    "source": "图标/火焰.png",
+    "target": "assets/icons/sintering-function.png",
+    "sha256": "ba1374cd584d8994772fb5d33a966e3f9c23de5c665983604e027d2b2e5a29f5"
+  },
+  {
+    "source": "图标/硬度高.png",
+    "target": "assets/icons/hardness.png",
+    "sha256": "6c63cae20a500922b80146974a3f0a798b85e61cbb15a6798529ebef50ef8019"
+  },
+  {
+    "source": "图标/更多 (3).png",
+    "target": "assets/icons/more-white.png",
+    "sha256": "0d7ac52c1b0b4a6c8eb177eee54b9459c8f51eb659a432390b63e38fe3946fde"
+  },
+  {
+    "source": "图标/更多 (4).png",
+    "target": "assets/icons/more-gray.png",
+    "sha256": "998afcb77302a1028bf1a1bdafb9a2b5e08262c466d91b344130b31d96e72fb9"
+  },
+  {
+    "source": "图标/清单_填充.png",
+    "target": "assets/icons/customer-list.png",
+    "sha256": "98e5d857cb45cf5cc47f6f5eff529494f7bbaad1168229dfe226cf3cf1cb3bb8"
+  },
+  {
+    "source": "图标/icon_准确率高.png",
+    "target": "assets/icons/quality-control.png",
+    "sha256": "984ea3c31b7369d77010bec1f198e6684c2ae520d90ee6d406ba28d0acb3434a"
+  },
+  {
+    "source": "图标/下载.png",
+    "target": "assets/icons/download.png",
+    "sha256": "52e944d7eacc1376f8a8d700920eace674da8f80a7d94f157bb84364ff70faed"
+  },
+  {
+    "source": "图标/右上角箭头.png",
+    "target": "assets/icons/arrow-up-right.png",
+    "sha256": "0113f1949c325d2151157113f261f7d6b093b44a2c1ce6749390d403aa6eace9"
+  }
+]
